@@ -1,0 +1,18 @@
+{
+  "tags": ["friendly", "medium size", "dog"],
+  "temperament": [
+    "confident",
+    "friendly",
+    "intelligent",
+    "kind",
+    "reliable",
+    "trustworthy"
+  ],
+  "breed-group": ["Sporting", "Gun Dog"],
+  "more-info": [
+    "This is a suitable breed for kids and is known to be playful, energetic, and affectionate around them.",
+    "They like to retrieve balls and other toys. Be sure to exercise this dog well to avoid hyperactivity.",
+    "Goldens need the occasional bath to keep them clean and looking their best. Grooming can be a wonderful bonding experience for you and your pet. Their strong fast-growing nails should be trimmed regularly with a nail clipper or grinder to avoid overgrowth, splitting and cracking. Their ears should be checked regularly to avoid a buildup of wax and debris which can result in an infection.",
+    "The Golden Retriever is particularly easy to train. They are very sensitive to harsh treatment, so excessive strictness is not recommended. They learn very quickly and are extremely adaptable, making them perfect for therapy or service jobs."
+  ]
+}
