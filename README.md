@@ -6,7 +6,7 @@ A website that contain information about dog breeds.
 
 - Built with Gatsby as a SSG so it's blazing fast
 - You can filter breeds by tags and also view specific details about a breed
-- All dog breeds information were gather from [Dog Breeds List](https://www.dogbreedslist.info/)
+- All dog breeds information were gathered from [Dog Breeds List](https://www.dogbreedslist.info/)
 
 ## Preview
 
