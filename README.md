@@ -22,10 +22,10 @@ A website that contain information about dog breeds.
 
 ## Performance Optimization
 
-- Performance score is 99 in both mobile and desktop version according to [PageSpeed Insights](https://pagespeed.web.dev/report?url=https%3A%2F%2Fbenz-doggo-hood.netlify.app%2F&form_factor=mobile)
 - Images are optimized using [gatsby-plugin-image](https://www.gatsbyjs.com/plugins/gatsby-plugin-image)
 - Fonts are preloaded by [gatsby-plugin-webfonts](https://www.gatsbyjs.com/plugins/gatsby-plugin-webfonts/) to improve website performance
 - SEO enhancement using [gatsby-plugin-react-helmet](https://www.gatsbyjs.com/plugins/gatsby-plugin-react-helmet/)
+- WebPageTest result are shown below:
 
 <img src="./resources/performance.png"/>
 
