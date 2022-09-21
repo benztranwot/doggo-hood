@@ -1,6 +1,6 @@
 # Doggo Hood
 
-A website that contain information about dog breeds.
+A website that contains information about dog breeds.
 
 [View Live Site](https://benz-doggo-hood.netlify.app/)
 
