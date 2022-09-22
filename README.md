@@ -11,7 +11,7 @@ A website that contains information about dog breeds.
 ## Preview
 
 <img src="./resources/home.png" width="400" />&nbsp;<img src="./resources/poodle.png" width="400" />
-<img src="./resources/about.png" width="400" />&nbsp;<img src="./resources/contact.png" width="400" />
+<img src="./resources/about.png" width="400" />&nbsp;<img src="./resources/content.png" width="400" />
 
 ## Tech stack
 
